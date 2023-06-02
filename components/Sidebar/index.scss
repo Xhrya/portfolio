@@ -1,0 +1,183 @@
+// .nav-bar
+// {
+//     background: #cdace8;
+//     width: 60px;
+//     height: 100%;
+//     position: fixed;
+//     top: 0;
+//     z-index: 3;
+//     min-height: 500px;
+// }
+
+// .logo{
+//     display: block;
+//     padding: 0px 0;
+
+//     img{
+//         display: block;
+//         width: 60px;
+//         height: auto;
+//         align-content: center;
+
+
+
+
+//     }
+// }
+
+// nav{
+//     display: block;
+//     text-align:center;
+//     position: absolute;
+//     height:210px;
+//     top: 50%; 
+//     margin-top: -120px;
+//     width: 50px;
+
+// }
+
+// a{
+//     font-size: 22px;
+//     color: #ffffff;
+//     display: block;
+//     line-height: 51px;
+//     height: 51px;
+//     position: relative;
+//     text-decoration: none;
+
+
+//     i{
+//         transition: all 0.3s ease-out;
+//     }
+
+//     &:hover{
+//         color:#ffffff;
+//         align-items: center;
+
+//         svg{
+//             opacity: 0%;
+//         }
+//         &::after{
+//             opacity: 100%;
+//             content: '';
+//             position: absolute;
+
+//         }
+//     }
+//     &:after{
+//         font-size: 9px;
+//         content: '';
+//         align-content: center;
+//         opacity: 0;
+//         transition: all 0.5s ease-out; //ease out
+//         text-align: center;
+        
+//     }
+    
+//     a.home-link{
+//     &:after{
+//         font-size: 9px;
+//         content: 'HOME';
+//         position: absolute;
+
+//     }
+// }
+
+
+// a.about-link{
+//     &:after{
+//         font-size: 9px;
+//         content: 'ABOUT';
+//         position: absolute;
+
+//     }
+// }
+
+// a.contact-link{
+//     &:after{
+//         font-size: 9px;
+//         content: 'CONTACT';
+//         position: absolute;
+
+        
+//     }
+// }
+
+// a.-projects-link{
+//     &:after{
+//         font-size: 9px;
+//         content: 'CONTACT';
+//         position: absolute;
+
+        
+//     }
+// }
+
+// a.active
+// {
+//     svg
+//     {
+//         color: #ffd700;
+//     }
+// }
+
+
+// ul{
+//     position: absolute;
+//     bottom: 2px;
+//     width: 100%;
+//     display:block ;
+//     padding: 0;
+//     margin: 0;
+//     text-align: center;
+
+//     li{
+//         a{
+//             padding: 10px 0;
+//             display: block;
+
+//         }
+//     }
+// }
+    
+// }
+
+// a.home-link{
+//     &:after{
+//         font-size: 9px;
+//         content: 'HOME';
+//         position: absolute;
+
+//     }
+// }
+
+
+// a.about-link{
+//     &:after{
+//         font-size: 9px;
+//         content: 'ABOUT';
+//         position: absolute;
+
+//     }
+// }
+
+// a.contact-link{
+//     &:after{
+//         font-size: 9px;
+//         content: 'CONTACT';
+//         position: absolute;
+
+        
+//     }
+// }
+
+// a.active
+// {
+//     svg
+//     {
+//         color: #ffd700;
+//     }
+// }
+
+
+
